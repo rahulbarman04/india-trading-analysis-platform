@@ -1,0 +1,21 @@
+{
+  "name": "trading-analysis-platform",
+  "version": "1.0.0",
+  "description": "Comprehensive trading analysis platform for Indian stock markets",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "streaming-service"
+  ],
+  "scripts": {
+    "install:all": "npm install && cd backend && pip install -r requirements.txt",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:streaming": "cd streaming-service && npm run dev",
+    "dev:backend": "cd backend && uvicorn app.main:app --reload --host 0.0.0.0 --port 8000",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:streaming\" \"npm run dev:frontend\"",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

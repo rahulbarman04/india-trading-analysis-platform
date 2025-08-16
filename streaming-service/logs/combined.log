@@ -1,0 +1,153 @@
+2025-08-16T16:11:29.604Z [INFO]: Streaming service running on port 3001 
+2025-08-16T16:11:29.615Z [INFO]: Redis service connected 
+2025-08-16T16:11:29.615Z [INFO]: Market data service started 
+2025-08-16T16:11:29.639Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:29.640Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:29.640Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:29.641Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:29.642Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:29.642Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:29.643Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:29.643Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:29.644Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:29.646Z [INFO]: Market data service started 
+2025-08-16T16:11:29.646Z [INFO]: WebSocket service started 
+2025-08-16T16:11:29.646Z [INFO]: WebSocket service started 
+2025-08-16T16:11:29.649Z [INFO]: Scheduled data updates enabled (every 5 seconds) 
+2025-08-16T16:11:29.651Z [INFO]: Subscribed to Redis market_updates channel 
+2025-08-16T16:11:30.655Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:30.655Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:30.656Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:30.656Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:30.656Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:30.657Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:30.657Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:30.657Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:30.658Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:35.661Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:35.661Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:35.662Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:35.662Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:35.662Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:35.663Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:35.663Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:35.664Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:35.664Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:40.666Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:40.666Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:40.667Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:40.667Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:40.667Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:40.668Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:40.668Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:40.668Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:40.669Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:45.674Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:45.675Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:45.675Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:45.676Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:45.676Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:45.676Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:45.677Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:45.677Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:45.677Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:50.681Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:50.682Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:50.682Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:50.682Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:50.683Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:50.683Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:50.683Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:50.684Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:50.684Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:55.688Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:11:55.689Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:11:55.689Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:11:55.689Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:11:55.690Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:11:55.690Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:11:55.690Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:11:55.691Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:11:55.691Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:00.694Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:00.695Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:00.695Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:00.695Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:00.696Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:00.696Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:00.696Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:00.697Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:00.697Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:05.701Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:05.701Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:05.702Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:05.702Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:05.703Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:05.703Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:05.703Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:05.704Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:05.704Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:10.708Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:10.709Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:10.709Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:10.709Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:10.709Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:10.710Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:10.710Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:10.710Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:10.710Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:15.716Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:15.716Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:15.717Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:15.717Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:15.717Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:15.717Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:15.718Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:15.718Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:15.718Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:20.723Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:20.723Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:20.723Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:20.724Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:20.724Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:20.724Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:20.725Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:20.725Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:20.725Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:25.730Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:25.730Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:25.730Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:25.731Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:25.731Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:25.731Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:25.732Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:25.732Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:25.732Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:30.736Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:30.737Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:30.737Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:30.738Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:30.738Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:30.738Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:30.738Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:30.739Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:30.739Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:35.744Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:35.744Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:35.744Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:35.745Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:35.745Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:35.745Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:35.746Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:35.746Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:35.746Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:40.750Z [WARN]: Backend API unavailable for NIFTY, using fallback 
+2025-08-16T16:12:40.750Z [WARN]: Technical analysis unavailable for NIFTY 
+2025-08-16T16:12:40.751Z [WARN]: Sentiment analysis unavailable for NIFTY 
+2025-08-16T16:12:40.751Z [WARN]: Backend API unavailable for SENSEX, using fallback 
+2025-08-16T16:12:40.751Z [WARN]: Technical analysis unavailable for SENSEX 
+2025-08-16T16:12:40.752Z [WARN]: Sentiment analysis unavailable for SENSEX 
+2025-08-16T16:12:40.752Z [WARN]: Backend API unavailable for BANKNIFTY, using fallback 
+2025-08-16T16:12:40.753Z [WARN]: Technical analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:40.753Z [WARN]: Sentiment analysis unavailable for BANKNIFTY 
+2025-08-16T16:12:44.095Z [INFO]: Received SIGINT, shutting down gracefully 
